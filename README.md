@@ -1,2 +1,2 @@
 # power_analysis
-A power analysis simulation of the circumstances under which violations in the assumptions of ANOVA result in reductions in power and performance
+A power analysis simulation of the circumstances under which violations in the assumptions of ANOVA result in reductions in power and type 1 error rate. This information is critical in the decision making for researchers to decide which statistical test to apply to their data, particularly when data is scarce and samples are small. A non-parametric test, the permutation test, is compared to ANOVA under a variety of combinations of factors to determine when each test is able to perform better than the other.
